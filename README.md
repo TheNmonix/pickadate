@@ -1,6 +1,6 @@
 ## Custom Widget for [Wakanda](http://wakanda.org)
 =========
-The __Pickadate__ widget allows you to open an interactive calendar in a small overlay. Choose a date, click elsewhere on the page (blur the input), or hit the Esc key to close. If a date is chosen, feedback is shown as the input's value, feel free to work with this widget, it's now available on Wakanda.
+The __Pickadate__ widget allows you to open an interactive calendar in a small overlay. Choose a date, click elsewhere on the page (blur the input), or hit the Esc key to close. If a date is chosen, feedback is shown as the input's value. Feel free to work with this widget, it's now available on Wakanda.
 
 ### Properties
 This widget has the following property:
